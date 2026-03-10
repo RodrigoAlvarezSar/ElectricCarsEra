@@ -1,2 +1,8 @@
 # ElectricCarsEra
 A study on how have electric vehicles grown in popularity in the US, with data ending in 2024
+
+The dataset obtained from https://amanxai.com/ contains a significant amount of information that can be used to illustrate the adoption of this kind of cars in tha different geographies of the United States.
+
+Filtering it it is possible to view the counties in which this kind of catrs is more popular, and then view which are the specific cities with the highest number of electical cars. Seatle is by far the city with the highest count of electric cars.
+
+Even though the information from different partes of the world is not considered, it is an interesting exercise to see how the second decade of the 21st century saw the birth of a revolutionary technology.
