@@ -8,3 +8,7 @@ Filtering it it is possible to view the counties in which this kind of catrs is 
 Even though the information from different partes of the world is not considered, it is an interesting exercise to see how the second decade of the 21st century saw the birth of a revolutionary technology.
 
 <img width="900" height="445" alt="image" src="https://github.com/user-attachments/assets/84a4a015-a7ea-4ba5-ac93-11bb9a10039e" />
+<img width="939" height="636" alt="image" src="https://github.com/user-attachments/assets/6ba247ea-b8d2-491f-bb6b-2e04c2488b82" />
+<img width="933" height="614" alt="image" src="https://github.com/user-attachments/assets/7d6b061d-ebd5-409f-a9b6-4d9a2eb2ad03" />
+
+As expected, Tesla is, by now, the undisputed leader in this industry.
