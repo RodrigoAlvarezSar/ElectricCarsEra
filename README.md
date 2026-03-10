@@ -6,3 +6,5 @@ The dataset obtained from https://amanxai.com/ contains a significant amount of 
 Filtering it it is possible to view the counties in which this kind of catrs is more popular, and then view which are the specific cities with the highest number of electical cars. Seatle is by far the city with the highest count of electric cars.
 
 Even though the information from different partes of the world is not considered, it is an interesting exercise to see how the second decade of the 21st century saw the birth of a revolutionary technology.
+
+<img width="900" height="445" alt="image" src="https://github.com/user-attachments/assets/84a4a015-a7ea-4ba5-ac93-11bb9a10039e" />
